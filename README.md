@@ -3,7 +3,7 @@ This is a MapReduce assignment implemented on AWS EC2.
 
 The "preprocess.py" code is used for data preprocessing, including tasks like removing stop words and performing lemmatization.
 
-The "Non-MapReduce.py" is a Python code that performs a similar word frequency count using a non-MapReduce algorithm. The results of this Python code are saved in the "python_results" folder.
+The "Non-MapReduce.py" is a Python code that performs a similar word frequency count using a non-MapReduce algorithm.
 
 The "analysis.py" file is used to analyze word frequencies and generate a word cloud based on those frequencies. 
 
